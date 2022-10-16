@@ -1,0 +1,40 @@
+.img1 {
+    height:450px;
+    width:33%;
+}
+.img2 {
+    height:450px;
+    width:33%;
+}
+.img3 {
+    height:450px;
+    width:34%;
+}
+
+
+
+.con{
+    width: 100%;
+    margin-top:1px;
+    display: flex;
+    flex-direction: row;
+}
+
+.bg{
+    height: 100vh;
+    
+    background-image: url("https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg");
+    background-size: cover;
+}
+
+.info {
+    margin-top: 10px;
+    height: 250px;
+    background-color:rgba(12, 12, 243, 0.692);
+    
+}
+
+h2{
+    padding-top: 70px;
+    margin-left: 40px;
+}

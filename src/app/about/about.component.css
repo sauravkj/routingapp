@@ -1,0 +1,13 @@
+.con{
+    height: 100vh;
+    background-image: url("https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg");
+    background-size: cover;
+}
+.logo{
+    margin-left:600px;
+    height: 300px;
+}
+
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
